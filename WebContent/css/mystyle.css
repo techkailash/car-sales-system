@@ -1,0 +1,103 @@
+
+/*=======================================
+  index css
+==================================================*/
+
+.nav_bar{background:#f7f7f7;}
+.img_slider{background:#F7F7F7;}
+.our_product{background:#F7F7F7;}
+.error_page{background:#f7f7f7;}
+.download-app-box {
+    background-color: #069E98;
+border: 1px solid #0FAA8B;
+
+/*=======================================
+  Download Box SECTION
+==================================================*/
+padding:30px;
+line-height:40px;
+font-size:25px;
+font-weight:900;
+color:#fff;
+}
+/*=======================================
+  FOOTER SECTION
+==================================================*/
+.footer-box {
+    background-color:#F5F5F5;
+    padding:20px 50px 20px 50px;
+    
+    
+}
+.small-box {
+    font-size:10px;
+}
+
+.footer-box a {
+    color:#808080;
+    text-decoration:none;
+}
+.footer-box a:hover {
+    color:#000;
+}
+.pad-botom {
+    padding-bottom:30px;
+}
+.footer-box p {
+    padding-top:15px;
+    padding-bottom:15px;
+    line-height:25px;
+}
+.social-box a{
+     color:#333436;
+    text-decoration:none;
+}
+
+.end-box {
+    padding:20px;
+     color:#fff;
+     background-color:#000;
+     font-size:14px;
+}
+/*user-border*/
+.border
+{
+	border: 3px solid #73AD21;
+}
+
+/*=======================================
+  end index css and start login css
+==================================================*/
+.login_form{
+	background:#f7f7f7;
+}
+.login_form2
+{
+	
+	margin-top:100px;
+	margin-bottom:100px;
+}
+
+
+/*=======================================
+  end login css and start singup css
+==================================================*/
+
+.signup2
+{
+	
+	margin-top:80px;
+	margin-bottom:80px;
+}
+
+
+/*=======================================
+  media query start
+===========================*/
+
+
+@media only screen and (max-width: 500px) {
+[class*="col-"] {
+    width: 100%;
+}
+}
